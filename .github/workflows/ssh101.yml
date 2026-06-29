@@ -37,7 +37,7 @@ jobs:
         rtmp_server = f"{RTMP_URL}/{STREAM_KEY}"
         
         # ===================== YAYIN AYARLARI =====================
-        VIDEO_URL = "https://www.vavoo.to/play/980424600/index.m3u8"
+        VIDEO_URL = "https://www.vavoo.tv/play/980424600/index.m3u8"
         LOGO_URL = "https://raw.githubusercontent.com/mutlumedya/yayin/refs/heads/main/logo1.png"
         
         print("=" * 50)
