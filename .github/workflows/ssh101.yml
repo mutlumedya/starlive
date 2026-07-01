@@ -37,8 +37,8 @@ jobs:
         rtmp_server = f"{RTMP_URL}/{STREAM_KEY}"
         
         # ===================== YAYIN AYARLARI =====================
-        VIDEO_URL = "https://vavoo.biz-az.workers.dev/play/300113394ceebba66c8ad"
-        LOGO_URL = "https://raw.githubusercontent.com/mutlumedya/yayin/refs/heads/main/logo1.png"
+        VIDEO_URL = "https://saran-live.ercdn.net/fx/index.m3u8"
+        LOGO_URL = "https://raw.githubusercontent.com/mutlumedya/yayin/refs/heads/main/sinema.png"
         
         print("=" * 50)
         print("📺 SSH101.com Yayın Başlatılıyor (Düşük Bitrate)")
